@@ -1,0 +1,72 @@
+[
+  {
+    "word": "Apple",
+    "translation": "Manzana",
+    "mastered": false,
+    "id": 1,
+    "level": 1
+  },
+  {
+    "word": "Book",
+    "translation": "Libro",
+    "mastered": false,
+    "id": 2,
+    "level": 1
+  },
+  {
+    "word": "Cat",
+    "translation": "Gato",
+    "mastered": false,
+    "id": 3,
+    "level": 1
+  },
+  {
+    "word": "Dog",
+    "translation": "Perro",
+    "mastered": false,
+    "id": 4,
+    "level": 1
+  },
+  {
+    "word": "House",
+    "translation": "Casa",
+    "mastered": false,
+    "id": 5,
+    "level": 1
+  },
+  {
+    "word": "School",
+    "translation": "Escuela",
+    "mastered": false,
+    "id": 6,
+    "level": 2
+  },
+  {
+    "word": "Car",
+    "translation": "Coche",
+    "mastered": false,
+    "id": 7,
+    "level": 2
+  },
+  {
+    "word": "Tree",
+    "translation": "Árbol",
+    "mastered": false,
+    "id": 8,
+    "level": 2
+  },
+  {
+    "word": "Water",
+    "translation": "Agua",
+    "mastered": false,
+    "id": 9,
+    "level": 3
+  },
+  {
+    "word": "Food",
+    "translation": "Comida",
+    "mastered": false,
+    "id": 10,
+    "level": 3
+  }
+]
